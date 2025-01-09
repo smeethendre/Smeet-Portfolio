@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smeet</string>
+    <string name="smeet_hendre">Smeet Hendre</string>
+    <string name="designation">Designation</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="experience">Experience</string>
+    <string name="contact">Contact</string>
+    <string name="shiravane_vidyalaya_jr_college_23"><![CDATA[Shiravane Vidyalaya & JR. College\', 23\']]></string>
+    <string name="sies_gst_27_ece">SIES GST 27\', ECE</string>
+    <string name="Kotlin" />
+    <string name="achievements">Achievements</string>
+</resources>
